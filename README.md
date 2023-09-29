@@ -8,9 +8,9 @@
     <a href="https://github.com/Shirshakhtml/letschecksmb/issues">Request Feature</a>
   </p>
 
-  <img alt="JSAnalyser" src="https://img.shields.io/github/stars/Shirshakhtml/letschecksmb">
-  <img alt="JSAnalyser" src="https://img.shields.io/github/issues/Shirshakhtml/letschecksmb">
-  <img alt="JSAnalyser" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/letschecksmb">
+  <img alt="letschecksmb" src="https://img.shields.io/github/stars/Shirshakhtml/letschecksmb">
+  <img alt="letschecksmb" src="https://img.shields.io/github/issues/Shirshakhtml/letschecksmb">
+  <img alt="letschecksmb" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/letschecksmb">
 
 </div>
 
