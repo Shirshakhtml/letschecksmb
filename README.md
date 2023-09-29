@@ -1,5 +1,18 @@
-# letschecksmb
+<div align="center">
+ <h2 align="center">Let's Check SMB</h2>
+  <p align="center">
+    <a
+      href="https://github.com/Shirshakhtml/AutoRecon/issues/new?assignees=&labels=bug">Report
+      Bug</a>
+    ·
+    <a href="https://github.com/Shirshakhtml/letschecksmb/issues">Request Feature</a>
+  </p>
 
+  <img alt="JSAnalyser" src="https://img.shields.io/github/stars/Shirshakhtml/letschecksmb">
+  <img alt="JSAnalyser" src="https://img.shields.io/github/issues/Shirshakhtml/letschecksmb">
+  <img alt="JSAnalyser" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/letschecksmb">
+
+</div>
 
 # Let's Check SMB
 
