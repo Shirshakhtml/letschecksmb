@@ -1,4 +1,4 @@
-![lol](https://github.com/Shirshakhtml/letschecksmb/assets/75179984/07d9c84d-8937-43ba-82ed-317cb0f6463d)<div align="center">
+![logo](https://github.com/Shirshakhtml/letschecksmb/assets/75179984/c86ff902-dac1-4e43-986f-873f2edde82b)<div align="center">
  <h2 align="center">Let's Check SMB</h2>
   <p align="center">
     <a
