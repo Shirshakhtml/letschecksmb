@@ -1,4 +1,4 @@
-<div align="center">
+![lol](https://github.com/Shirshakhtml/letschecksmb/assets/75179984/07d9c84d-8937-43ba-82ed-317cb0f6463d)<div align="center">
  <h2 align="center">Let's Check SMB</h2>
   <p align="center">
     <a
@@ -25,6 +25,7 @@ It is a tool that can scan for and exploit vulnerabilities in the Server Message
 - Supports ms17-010 (EternalBlue), ms08-067 (NetAPI), and ms09-050 (SMBv2) vulnerabilities
 - Provides a meterpreter shell for post-exploitation actions
 - Generates reports in HTML, XML, or CSV formats
+- Offers the option to search for and download sensitive files from the exploited system.
 
 ## Requirements
 
