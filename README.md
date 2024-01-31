@@ -71,3 +71,6 @@ The tool will first scan the target host using nmap scripts and check if it is v
 ## Disclaimer
 
 This tool is for educational and research purposes only. Do not use it on any system without permission. I am not responsible for any damage or legal consequences caused by this tool. Use it at your own risk.
+
+![smb logo](https://github.com/Shirshakhtml/letschecksmb/assets/75179984/f19cce16-9ee4-4246-82d5-6cb54fcbf264)<div align="center">
+
